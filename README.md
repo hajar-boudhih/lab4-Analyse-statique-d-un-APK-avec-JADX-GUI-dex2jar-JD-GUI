@@ -169,3 +169,9 @@ Les principales observations concernent :
 **Localisation** : MainActivity.java
 **Impact potentiel** : La logique peut être analysée et contournée via reverse engineering.
 **Remédiation recommandée** : Déplacer la logique critique côté serveur et utiliser l'obfuscation du code.
+
+
+
+### task 8: nettoyage
+
+<img width="710" height="298" alt="Image" src="https://github.com/user-attachments/assets/3c3ac827-e56f-4d07-b8ee-f30c14324670" />
